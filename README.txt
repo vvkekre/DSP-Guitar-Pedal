@@ -1,0 +1,1 @@
+Created a compressor which is meant to filter out certain input frequencies being produced by the guitar. This compressor is also known as a guitar pedal.The flow of the compressor is such that it first picks sound from the guitar, then it filters out the sound and then we get to hear the filtered sound on the speaker/amplifier. 
